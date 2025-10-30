@@ -19,10 +19,9 @@
 
 ## 🏆 Awards
 *  **SSU Creative Engineering Design Competition (2021) Gold Prize🥇**
-    * *Project Link:* [Project Title / Repository Link](https://github.com/your-username/ssu-project-repo)
-    
 *  **ASK 2025 Undergraduate Thesis Division Gold Prize🥇**
-    * *Thesis Link:* [Thesis Title / Repository Link](https://github.com/your-username/ask-thesis-repo)
-    
 *  **Pearl Abyss DingaDing Hackathon Planning Award (2021)🌟**
-    * *Project Link:* [Project Title / Repository Link](https://github.com/your-username/pearl-abyss-project-repo)
+
+## 📄 Publications
+* ""User Pattern Analysis System through UI Interaction Based on Automation Elements ⌨️""
+   * **Link to Paper:** [🔗 Download Full PDF](file:///C:/Users/sin%20yeong/Downloads/KIPS_C2025A0200F%20(1).pdf)
