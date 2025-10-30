@@ -35,6 +35,6 @@
 * **Rendering Pipeline (URP/HDRP) 🎨**
     * *Description:* 렌더링 파이프라인 이해를 위해 DirectX를 사용한 커스텀 엔진 제작을 진행 중입니다.
 
-* **Unreal Engine Development **
+* **Unreal Engine Development**
     * *Description:* 고성능 AAA급 게임 개발 환경인 언리얼 엔진을 학습하며, C++ 기반의 엔진 구조와 고급 그래픽스 기능을 숙련하는 것을 목표로 합니다.
   
