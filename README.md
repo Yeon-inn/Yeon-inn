@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Keep%20Going🏃)
+![header](https://capsule-render.vercel.app/api?type=waving&color=202A38,323232&height=300&section=header&text=Keep%20Going🏃)
 <!--
 **Yeon-inn/Yeon-inn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
