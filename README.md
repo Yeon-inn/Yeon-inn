@@ -23,5 +23,4 @@
 *  **Pearl Abyss DingaDing Hackathon Planning Award (2021)🌟**
 
 ## 📄 Publications
-* ""User Pattern Analysis System through UI Interaction Based on Automation Elements ⌨️""
-   * **Link to Paper:** [🔗 Download Full PDF](file:///C:/Users/sin%20yeong/Downloads/KIPS_C2025A0200F%20(1).pdf)
+* **User Pattern Analysis System through UI Interaction Based on Automation Elements ⌨️**
