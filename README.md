@@ -3,10 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Keep%20Going🏃)
 
 
-
-<!--Body-->
-## 🧱 Tech Stack
-
 ## 🚀 Engine
 <!--untiy-->
 ![Unity](https://img.shields.io/badge/Unity-202A38?style=flat-square&logo=unity&logoColor=white)
@@ -24,3 +20,21 @@
 
 ## 📄 Publications
 * **User Pattern Analysis System through UI Interaction Based on Automation Elements ⌨️**
+
+
+## 📈 Developer Metrics
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksb121314)](https://solved.ac/profile/ksb121314) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon&show_icons=true&theme=default&hide_border=true&card_width=300&line_height=21)](https://github.com/Yeon)
+
+## 🌱 Learning & Goals
+* **Unity DOTS (Data-Oriented Technology Stack) 🚀**
+    * *Description:* 고성능을 위한 데이터 지향 설계와 ECS(Entity Component System) 패턴을 심층적으로 학습하고 있습니다.
+
+* **Multi-threading & Parallel Programming ⚙️**
+    * *Description:* Unity 및 C# 환경에서 멀티쓰레딩을 활용하여 성능 최적화와 동시성 제어 기술을 연구 중입니다.
+
+* **Rendering Pipeline (URP/HDRP) 🎨**
+    * *Description:* 렌더링 파이프라인 이해를 위해 DirectX를 사용한 커스텀 엔진 제작을 진행 중입니다.
+
+* **Unreal Engine Development **
+    * *Description:* 고성능 AAA급 게임 개발 환경인 언리얼 엔진을 학습하며, C++ 기반의 엔진 구조와 고급 그래픽스 기능을 숙련하는 것을 목표로 합니다.
+  
