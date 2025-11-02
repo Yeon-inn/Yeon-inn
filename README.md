@@ -21,6 +21,14 @@
 ## 📄 Publications
 * **User Pattern Analysis System through UI Interaction Based on Automation Elements ⌨️**
 
+## 🚗 Toy Project
+[<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/10aecdbb-5f50-4ac2-bf68-d8fe458bf017" />](https://github.com/Yeon-inn/UvCraft)
+[<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/de2ac4ab-c630-484d-b68f-1480b4a89282" />](https://github.com/Yeon-inn/SurviveFromZombies)
+
+## 👨‍👩‍👧‍👦 Team Project
+[<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/f2fc4bb6-23ef-42c1-b71d-dc0d8aa3faaf" />](https://github.com/Yeon-inn/ProjectYJ)
+[<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/882cef61-a6c5-45aa-850d-bd42eebc157d" />](https://github.com/Yeon-inn/GoldenHorizon)
+[<img width="377" height="378" alt="Image" src="https://github.com/user-attachments/assets/804767b3-db33-4bc1-a50f-bf056bbc9b0e" />](https://github.com/Yeon-inn/Pocketmon_2)
 
 ## 📈 Developer Metrics
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksb121314)](https://solved.ac/profile/ksb121314) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon&show_icons=true&theme=default&hide_border=true&card_width=300&line_height=21)](https://github.com/Yeon)
